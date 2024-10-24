@@ -1,0 +1,1 @@
+I kept everything the same as the lab except I added: self.genre and self.purchasecount and I created the function to display the genre, filter by genre, and display the top 3 purchased books and then added that to the bottom part
